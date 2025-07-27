@@ -4,7 +4,15 @@ I’m a **passionate Web Developer** with over **2+ years of experience** crafti
 - ⚙️ Performance optimization
 - 🔍 SEO best practices
 
-I'm always eager to learn and contribute to **collaborative development environments**, and I take pride in turning designs (Figma) into **fully responsive, high-performing websites**
+I'm always eager to learn and contribute to **collaborative development environments**, and I take pride in turning designs (Figma) into **fully responsive, high-performing websites**.
+
+
+## 🔗 Quick Links
+
+- 📄 => [**Download My Resume**](Doc/SWAPNIL-KATHALE-WEB-DEV.pdf)
+- 🌐 => [**View My Portfolio Website**](https://portfolio-one-page-pi.vercel.app/)
+
+
 ### 💼 Career Timeline
 
 #### 🔹 **Web Developer – Valourithm Technologies**
@@ -158,4 +166,3 @@ Simple portfolio website for a startup.
 - Fort Intellect Project UI
 
 ![Fort Intellect](UI/Projects-UI-2/fortintellect-2023.png)
-
